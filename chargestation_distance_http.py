@@ -53,7 +53,7 @@ DEPOT_ATTR_KEY = "depot_location"
 
 # Charging station coordinates per depot (lat, lon). Keys are lowercase.
 DEPOTS = {
-    "las pinas": (14.4542, 120.9767),
+    "las_pinas": (14.4542, 120.9767),
     "taft": (14.5664, 120.9920),
 }
 
